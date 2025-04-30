@@ -1,0 +1,52 @@
+---Test:                          bne.hex
+curr_pc = 000002ba
+curr_pc = 000002be
+curr_pc = 000002c0
+curr_pc = 000002cc
+curr_pc = 000002cc
+curr_pc = 000002c8
+curr_pc = 000002c8
+curr_pc = 000002c8
+curr_pc = 000002ee
+curr_pc = 000002f2
+curr_pc = 000002f4
+curr_pc = 00000300
+curr_pc = 00000300
+curr_pc = 000002fc
+curr_pc = 000002fc
+curr_pc = 000002fc
+curr_pc = 0000031e
+curr_pc = 00000322
+curr_pc = 00000324
+curr_pc = 00000328
+curr_pc = 00000330
+curr_pc = 00000362
+curr_pc = 00000368
+curr_pc = 00000362
+curr_pc = 00000368
+curr_pc = 0000037a
+curr_pc = 00000380
+curr_pc = 0000037a
+curr_pc = 00000380
+curr_pc = 000003ea
+curr_pc = 000003f0
+curr_pc = 000003ea
+curr_pc = 000003f0
+curr_pc = 00000402
+curr_pc = 00000408
+curr_pc = 00000402
+curr_pc = 00000408
+curr_pc = 00000456
+curr_pc = 00000456
+curr_pc = 0000046a
+curr_pc = 0000046e
+Test passed
+
+#--------------------------------------
+# Summary: 1/1 tests passed
+#--------------------------------------
+
+- /home/risk/labs/lab2/scr1/src/tb/scr1_top_tb_runtests.sv:199: Verilog $finish
+Simulation performed on Verilator 5.035 devel rev v5.034-175-g6ac2aa2d9 
+                          Test               | build | simulation 
+                         bne.hex                OK                                       : ... note: In instance
